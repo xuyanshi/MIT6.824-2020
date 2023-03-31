@@ -9,6 +9,7 @@ MIT 6.824: Distributed Systems, Spring 2020
 - [HomePage](http://nil.csail.mit.edu/6.824/2020/)
 - [Schedule](http://nil.csail.mit.edu/6.824/2020/schedule.html)
 - [Submissions](https://6824.scripts.mit.edu/2020/handin.py/)
+- [Chinese Translation](https://mit-public-courses-cn-translatio.gitbook.io/mit6-824/)
 
 ## Labs
 - [ ] [Lab 1: MapReduce](http://nil.csail.mit.edu/6.824/2020/labs/lab-mr.html)
